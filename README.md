@@ -16,5 +16,5 @@ IMPLEMENATATION:
 4.Manually segmented and meticulously converted generated masks to polygon labels using computer vision program for precise labeling.\
 5.Integrated the meticulously labeled dataset into a fine tuned YOLO model, enhancing segmentation and labelling accuracy for robust performance.\
 6.Salesforce blip image captioning large model was used for generating the caption for the image.\
-7.This comprehensive dataset, encompassing diverse scenarios and accurate labels, lays the foundation for further project development and exploration.\
+7.This comprehensive dataset, encompassing diverse scenarios and accurate labels, lays the foundation for further project development and exploration.
 
